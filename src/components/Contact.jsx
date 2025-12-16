@@ -12,7 +12,7 @@ function Contact() {
         <div className="contact-content">
           <div className="contact-info">
             <div className="contact-item">
-              <div className="contact-icon">📞</div>
+              <div className="contact-icon">TEL</div>
               <div>
                 <h3>Telefon</h3>
                 <p>Rufen Sie uns an</p>
@@ -23,7 +23,7 @@ function Contact() {
             </div>
 
             <div className="contact-item">
-              <div className="contact-icon">✉️</div>
+              <div className="contact-icon">@</div>
               <div>
                 <h3>E-Mail</h3>
                 <p>Schreiben Sie uns</p>
@@ -34,7 +34,7 @@ function Contact() {
             </div>
 
             <div className="contact-item">
-              <div className="contact-icon">📍</div>
+              <div className="contact-icon">PIN</div>
               <div>
                 <h3>Standort</h3>
                 <p>Deutschland</p>
@@ -42,7 +42,7 @@ function Contact() {
             </div>
 
             <div className="contact-item">
-              <div className="contact-icon">🕐</div>
+              <div className="contact-icon">UHR</div>
               <div>
                 <h3>Öffnungszeiten</h3>
                 <p>Mo - Fr: 08:00 - 18:00</p>

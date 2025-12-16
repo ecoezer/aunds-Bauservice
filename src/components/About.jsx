@@ -22,28 +22,28 @@ function About() {
 
           <div className="about-features">
             <div className="feature">
-              <div className="feature-icon">✓</div>
+              <div className="feature-icon">01</div>
               <div className="feature-content">
                 <h3>Erfahrung</h3>
                 <p>Jahrelange Expertise im Baugewerbe</p>
               </div>
             </div>
             <div className="feature">
-              <div className="feature-icon">✓</div>
+              <div className="feature-icon">02</div>
               <div className="feature-content">
                 <h3>Qualität</h3>
                 <p>Hochwertige Materialien und Ausführung</p>
               </div>
             </div>
             <div className="feature">
-              <div className="feature-icon">✓</div>
+              <div className="feature-icon">03</div>
               <div className="feature-content">
                 <h3>Zuverlässigkeit</h3>
                 <p>Termintreue und verlässliche Arbeit</p>
               </div>
             </div>
             <div className="feature">
-              <div className="feature-icon">✓</div>
+              <div className="feature-icon">04</div>
               <div className="feature-content">
                 <h3>Kundenservice</h3>
                 <p>Persönliche Beratung und Betreuung</p>

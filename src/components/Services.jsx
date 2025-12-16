@@ -5,57 +5,57 @@ function Services() {
     {
       title: 'Landschaftsbau / Landschaftsplanung',
       description: 'Professionelle Gestaltung und Planung von Außenanlagen. Wir verwirklichen Ihre Traumlandschaft mit modernem Design und hoher Qualität.',
-      icon: '📐'
+      icon: 'LP'
     },
     {
       title: 'Neupflanzungen und Ersatzpflanzungen',
       description: 'Fachgerechte Bepflanzung von Gärten und Außenanlagen. Auswahl der richtigen Pflanzen für Ihre spezifische Situation.',
-      icon: '🌱'
+      icon: 'NP'
     },
     {
       title: 'Erdarbeiten und Baggerarbeiten',
       description: 'Professionelle Erdarbeiten mit moderner Ausrüstung. Aushub, Geländemodellierung und Vorbereitung für Bauprojekte.',
-      icon: '🏗️'
+      icon: 'EA'
     },
     {
       title: 'Zaunbau',
       description: 'Hochwertige Zaunbau-Lösungen für jedes Grundstück. Von klassischen bis modernen Designs - wir realisieren Ihre Vorstellung.',
-      icon: '🚪'
+      icon: 'ZB'
     },
     {
       title: 'Gabionen / Pergolen / Mauern',
       description: 'Gestaltung von Außenbereichen mit Gabionen, Pergolen und Mauern. Stabilität und Ästhetik kombiniert.',
-      icon: '🧱'
+      icon: 'GP'
     },
     {
       title: 'Gartenbau und Gartenplanung',
       description: 'Umfassende Gartengestaltung von der Planung bis zur Umsetzung. Wir schaffen grüne Oasen nach Ihren Wünschen.',
-      icon: '🌿'
+      icon: 'GB'
     },
     {
       title: 'Pflasterarbeiten',
       description: 'Hochwertige Pflasterarbeiten für Terrassen, Gehwege und Außenanlagen. Verschiedene Materialien und professionelle Verlegung.',
-      icon: '🛣️'
+      icon: 'PA'
     },
     {
       title: 'Treppenbau',
       description: 'Massiver und funktionaler Treppenbau für Innen- und Außenbereiche. Sichere und ansprechende Lösung für Höhenunterschiede.',
-      icon: '🪜'
+      icon: 'TB'
     },
     {
       title: 'Rollrasen',
       description: 'Sofortiger, grüner Rasen durch hochwertige Rollrasen-Verlegung. Schnelle und sichere Lösung für Grünflächen.',
-      icon: '🌾'
+      icon: 'RR'
     },
     {
       title: 'Natursteinarbeiten',
       description: 'Edle Natursteinarbeiten für Gärten und Außenanlagen. Dauerhaft schön und funktional gestaltet.',
-      icon: '💎'
+      icon: 'NS'
     },
     {
       title: 'Terrassenbau',
       description: 'Planung und Bau von Terrassen für erweitertes Wohngefühl. Stabile Konstruktion und hochwertige Materialien.',
-      icon: '🏡'
+      icon: 'TE'
     }
   ]
 
