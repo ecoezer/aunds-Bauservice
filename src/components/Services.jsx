@@ -10,7 +10,7 @@ function Services() {
     {
       title: 'Neupflanzungen und Ersatzpflanzungen',
       description: 'Fachgerechte Bepflanzung von Gärten und Außenanlagen. Auswahl der richtigen Pflanzen für Ihre spezifische Situation.',
-      image: 'https://images.pexels.com/photos/5231236/pexels-photo-5231236.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: '/chatgpt_image_dec_16,_2025,_12_31_55_pm.png'
     },
     {
       title: 'Erdarbeiten und Baggerarbeiten',
