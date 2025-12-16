@@ -35,7 +35,7 @@ function Services() {
     {
       title: 'Pflasterarbeiten',
       description: 'Hochwertige Pflasterarbeiten für Terrassen, Gehwege und Außenanlagen. Verschiedene Materialien und professionelle Verlegung.',
-      image: 'https://images.pexels.com/photos/8480554/pexels-photo-8480554.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: '/chatgpt_image_dec_16,_2025,_12_39_49_pm.png'
     },
     {
       title: 'Treppenbau',
