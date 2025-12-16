@@ -5,7 +5,7 @@ function Services() {
     {
       title: 'Landschaftsbau / Landschaftsplanung',
       description: 'Professionelle Gestaltung und Planung von Außenanlagen. Wir verwirklichen Ihre Traumlandschaft mit modernem Design und hoher Qualität.',
-      image: 'https://images.pexels.com/photos/3935228/pexels-photo-3935228.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: 'https://images.pexels.com/photos/15456924/pexels-photo-15456924.jpeg?auto=compress&cs=tinysrgb&w=600'
     },
     {
       title: 'Neupflanzungen und Ersatzpflanzungen',
