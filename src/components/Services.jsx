@@ -20,7 +20,7 @@ function Services() {
     {
       title: 'Zaunbau',
       description: 'Hochwertige Zaunbau-Lösungen für jedes Grundstück. Von klassischen bis modernen Designs - wir realisieren Ihre Vorstellung.',
-      image: 'https://images.pexels.com/photos/15190737/pexels-photo-15190737.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: 'https://images.pexels.com/photos/683402/pexels-photo-683402.jpeg?auto=compress&cs=tinysrgb&w=600'
     },
     {
       title: 'Gabionen / Pergolen / Mauern',
