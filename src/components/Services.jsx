@@ -45,7 +45,7 @@ function Services() {
     {
       title: 'Rollrasen',
       description: 'Sofortiger, grüner Rasen durch hochwertige Rollrasen-Verlegung. Schnelle und sichere Lösung für Grünflächen.',
-      image: 'https://images.pexels.com/photos/5231263/pexels-photo-5231263.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: '/chatgpt_image_dec_16,_2025,_11_52_36_am.png'
     },
     {
       title: 'Natursteinarbeiten',
