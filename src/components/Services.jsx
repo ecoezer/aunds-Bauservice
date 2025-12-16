@@ -30,7 +30,7 @@ function Services() {
     {
       title: 'Gartenbau und Gartenplanung',
       description: 'Umfassende Gartengestaltung von der Planung bis zur Umsetzung. Wir schaffen grüne Oasen nach Ihren Wünschen.',
-      image: 'https://images.pexels.com/photos/3811517/pexels-photo-3811517.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: 'https://images.pexels.com/photos/33243204/pexels-photo-33243204.jpeg?auto=compress&cs=tinysrgb&w=600'
     },
     {
       title: 'Pflasterarbeiten',
