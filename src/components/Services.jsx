@@ -25,7 +25,7 @@ function Services() {
     {
       title: 'Gabionen / Pergolen / Mauern',
       description: 'Gestaltung von Außenbereichen mit Gabionen, Pergolen und Mauern. Stabilität und Ästhetik kombiniert.',
-      image: 'https://images.pexels.com/photos/5231268/pexels-photo-5231268.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: 'https://images.pexels.com/photos/11257165/pexels-photo-11257165.jpeg?auto=compress&cs=tinysrgb&w=600'
     },
     {
       title: 'Gartenbau und Gartenplanung',
