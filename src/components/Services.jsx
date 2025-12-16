@@ -45,12 +45,12 @@ function Services() {
     {
       title: 'Rollrasen',
       description: 'Sofortiger, grüner Rasen durch hochwertige Rollrasen-Verlegung. Schnelle und sichere Lösung für Grünflächen.',
-      image: '/chatgpt_image_dec_16,_2025,_11_18_13_am.png'
+      image: 'https://images.pexels.com/photos/5231263/pexels-photo-5231263.jpeg?auto=compress&cs=tinysrgb&w=600'
     },
     {
       title: 'Natursteinarbeiten',
       description: 'Edle Natursteinarbeiten für Gärten und Außenanlagen. Dauerhaft schön und funktional gestaltet.',
-      image: 'https://images.pexels.com/photos/3556131/pexels-photo-3556131.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: '/chatgpt_image_dec_16,_2025,_11_18_13_am.png'
     },
     {
       title: 'Terrassenbau',
