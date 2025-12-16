@@ -55,7 +55,7 @@ function Services() {
     {
       title: 'Terrassenbau',
       description: 'Planung und Bau von Terrassen für erweitertes Wohngefühl. Stabile Konstruktion und hochwertige Materialien.',
-      image: 'https://images.pexels.com/photos/4469195/pexels-photo-4469195.jpeg?auto=compress&cs=tinysrgb&w=600'
+      image: '/chatgpt_image_dec_16,_2025,_11_36_43_am.png'
     }
   ]
 
